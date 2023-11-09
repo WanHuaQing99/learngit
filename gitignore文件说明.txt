@@ -1,0 +1,2 @@
+1、本文件通过https://gitignore.itranswarp.com在线生成
+2、本文件中忽略的开发语言为：Python,Perl,Julia,Java,Node
